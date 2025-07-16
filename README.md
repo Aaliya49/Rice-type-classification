@@ -52,5 +52,6 @@ python app.py
 ## 📞 Contact
 **Syed Anisa Aliya**  
 📧 238a5a0103@risekrishnasaiprakasam.edu.in 
+
 🔗 [SmartInternz Internship Project]
 
