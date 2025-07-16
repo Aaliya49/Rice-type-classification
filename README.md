@@ -50,7 +50,7 @@ python app.py
 - Classes: Arborio, Basmati, Ipsala, Jasmine, Karacadag
 
 ## 📞 Contact
-**Moditha Manasa Jaladanki**  
+**Syed Anisa Aliya**  
 📧 238a5a0103@risekrishnasaiprakasam.edu.in 
 🔗 [SmartInternz Internship Project]
 
