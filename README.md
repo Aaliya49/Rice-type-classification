@@ -51,6 +51,6 @@ python app.py
 
 ## 📞 Contact
 **Moditha Manasa Jaladanki**  
-📧 jmanasa495@gmail.com  
+📧 238a5a0103@risekrishnasaiprakasam.edu.in 
 🔗 [SmartInternz Internship Project]
 
