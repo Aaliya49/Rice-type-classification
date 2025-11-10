@@ -30,7 +30,7 @@ Rice_Classification_Project/
 ## 🚀 How to Run
 1. Clone the repo:
 ```bash
-git clone https://github.com/YOUR_USERNAME/rice-type-classification.git
+git clone https://github.com/Aaliya49/rice-type-classification.git
 cd rice-type-classification
 ```
 2. Install dependencies:
